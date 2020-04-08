@@ -26,7 +26,7 @@ SECRET_KEY = 'h!)pl@j2nfpwymgfo*3nwr_q8^p4b6^d8w+(l2semqx9h&!6&s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com]
+ALLOWED_HOSTS = ['127.0.0.1', 'testappehealthapp.herokuapp.com']
 
 
 # Application definition
